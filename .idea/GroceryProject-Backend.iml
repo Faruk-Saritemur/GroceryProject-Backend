@@ -5,7 +5,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="ExKsoap2-1.0.3.1" level="project" />
     <orderEntry type="library" name="ksoap2-android-assembly-3.6.4-jar-with-dependencies" level="project" />
+    <orderEntry type="library" name="ksoap2-j2me-core-2.1.2" level="project" />
+    <orderEntry type="library" name="ksoap2-j2me-core-2.1.22" level="project" />
+    <orderEntry type="library" name="ksoap2-j2me-core-2.1.23" level="project" />
+    <orderEntry type="library" name="ksoap2-j2me-core-2.1.25" level="project" />
   </component>
 </module>

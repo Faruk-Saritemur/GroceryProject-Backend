@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ksoap2-j2me-core-2.1.21">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/ksoap2-j2me-core-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
